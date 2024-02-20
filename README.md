@@ -17,13 +17,16 @@ En el repositorio además hay otros tipos de material complementario:
 - `docs/Elaboración de tesis con LaTeX.pdf` Cómo escribir una tesis con LaTeX, por Carlos Brys.
 - `docs/Guia Normas APA (7ma edición).pdf` Guía para publicar tu trabajo académico bajo las Normas APA.
 - `docs/IEEE Reference Guide.pdf` Guía para escribir según normas de IEEE Periodicals.
-- `ejemplos` Colección de ejemplos variados para su inspiración a la hora de redactar.
+- `ejemplos/diagramas/*` Colección de diagramas variados.
+- `ejemplos/tp/*` Colección de ejemplos de trabajos prácticos variados para su inspiración a la hora de redactar.
+- `pautas/*` Consideraciones a tener en cuenta a la hora de entregar o presentar trabajos.
 
 ## Recursos
 
 - Software
     - [Dia](http://dia-installer.de/index.html.es). Editor de diagramas. GNU/Linux, MacOS, Windows.
     - [Google Docs](https://docs.google.com/). Herramientas ofimáticas en la nube. Android, iOS, Windows, Web.
+    - [Greenshot](https://getgreenshot.org/). Herramienta para realizar capturas de pantalla. 
     - [LibreOffice](https://www.libreoffice.org/). Suite ofimática. GNU/Linux, MacOS, Windows.
     - [Notepad++](https://notepad-plus-plus.org/). Editor de textos potente. Windows.
     - [Pencil Project](https://pencil.evolus.vn/). Herramienta de creación de prototipos GUI.
