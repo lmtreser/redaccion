@@ -21,6 +21,14 @@ En el repositorio además hay otros tipos de material complementario:
 - `ejemplos/tp/*` Colección de ejemplos de trabajos prácticos variados para su inspiración a la hora de redactar.
 - `pautas/*` Consideraciones a tener en cuenta a la hora de entregar o presentar trabajos.
 
+## Presentaciones
+
+Realizar y exponer un trabajo con el soporte de una presentación es un capítulo aparte. Algunos recursos interesantes para explorar:
+
+- [Inkscape + JessyInk = presentaciones dinamicas](http://vamox.blogspot.com/2016/04/tutorial-inkscape-jessyink.html) 
+- [Impress.js Presentaciones basadas en CSS3](https://impress.js.org/)
+- [Sobre como hacer presentaciones](http://vamox.blogspot.com/2019/08/slides-sobre-como-hacer-presentaciones.html)
+
 ## Recursos
 
 - Software
@@ -32,8 +40,9 @@ En el repositorio además hay otros tipos de material complementario:
     - [Pencil Project](https://pencil.evolus.vn/). Herramienta de creación de prototipos GUI.
     - [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html). Lector PDF, ePub, MOBI, CHM, XPS, DjVu, CBZ y CBR. Windows.
 
-- Otros recursos
+- Otros recursos 
     - [Normas APA](https://normas-apa.org/)
     - [Publish with IEEE](https://ieeeauthorcenter.ieee.org/)
     - [The Markdown Guide](https://www.markdownguide.org/)
     - [The comprehensive Markdown reference guide](https://github.com/mattcone/markdown-guide)
+    - [Tutorial Guardar PDF](https://youtu.be/A632avezFGQ)
