@@ -26,7 +26,7 @@ En el repositorio además hay otros tipos de material complementario:
 
 Realizar y exponer un trabajo con el soporte de una presentación es un capítulo aparte. En el directorio `presentaciones` se recopila material y herramientas para diseñar presentaciones.
 
-- `Impress.js.zip` Framework para crear presentaciones basadas en el poder de CSS3.
+- `Impress.js` Framework para crear presentaciones basadas en el poder de CSS3.
 - `PowerPoint vas a morir.pdf` Guía para hacer una presentación, por [DaFeBa](http://vamox.blogspot.com/).
 
 Algunos recursos interesantes para explorar:
