@@ -18,14 +18,18 @@ En el repositorio además hay otros tipos de material complementario:
 - `docs/Elaboración de tesis con LaTeX.pdf` Cómo escribir una tesis con LaTeX, por Carlos Brys.
 - `docs/Guia Normas APA (7ma edición).pdf` Guía para publicar tu trabajo académico bajo las Normas APA.
 - `docs/IEEE Reference Guide.pdf` Guía para escribir según normas de IEEE Periodicals.
-- `docs/PowerPoint vas a morir.pdf` Guía para hacer una presentación, por [DaFeBa](http://vamox.blogspot.com/).
 - `ejemplos/diagramas/*` Colección de diagramas variados.
 - `ejemplos/tp/*` Colección de ejemplos de trabajos prácticos variados para su inspiración a la hora de redactar.
 - `pautas/*` Consideraciones a tener en cuenta a la hora de entregar o presentar trabajos.
 
 ## Presentaciones
 
-Realizar y exponer un trabajo con el soporte de una presentación es un capítulo aparte. Algunos recursos interesantes para explorar:
+Realizar y exponer un trabajo con el soporte de una presentación es un capítulo aparte. En el directorio `presentaciones` se recopila material y herramientas para diseñar presentaciones.
+
+- `Impress.js.zip` Framework para crear presentaciones basadas en el poder de CSS3.
+- `PowerPoint vas a morir.pdf` Guía para hacer una presentación, por [DaFeBa](http://vamox.blogspot.com/).
+
+Algunos recursos interesantes para explorar:
 
 - [Inkscape + JessyInk = presentaciones dinamicas](http://vamox.blogspot.com/2016/04/tutorial-inkscape-jessyink.html) 
 - [Impress.js Presentaciones basadas en CSS3](https://impress.js.org/)
