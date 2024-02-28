@@ -6,7 +6,8 @@ Repositorio educativo con pautas y ejemplos para redactar informes técnicos.
 
 El modelo de trabajo final pretende ser una guía a seguir para redactar un informe técnico con pautas y ejemplos prácticos. Los archivos se encuentran en el directorio `modelo`.
 
-- **Memoria del Trabajo Final.** Guía que brinda una estructura de redacción. Disponible en versión pdf `Memoria del Trabajo Final.pdf` y editable `Memoria del Trabajo Final.odt`. Además se puede acceder a una versión en línea en [Google Docs](https://docs.google.com/document/d/17LEamsrHVSWW7h_Q9vsXceS2OKmEkbil5PoUAOe40n0). 
+- **Memoria del Trabajo Final.** Guía que brinda una estructura de redacción. Disponible en versión pdf `Memoria del Trabajo Final.pdf` y editable `Memoria del Trabajo Final.odt`. Además se puede acceder a una versión en línea en [Google Docs](https://docs.google.com/document/d/17LEamsrHVSWW7h_Q9vsXceS2OKmEkbil5PoUAOe40n0).
+
 - **Ejemplo Informe Técnico.** Un ejemplo de redacción basado en el modelo. Disponible en versión pdf `Ejemplo Informe Técnico.pdf` y editable `Ejemplo Informe Técnico.odt`. Además se puede acceder a una versión en línea en [Google Docs](https://docs.google.com/document/d/1nyXuRda88w7UsFbD4Z-Drb5UBqbnPBianTHqCXTBi8o).
 
 ## Material complementario
@@ -48,3 +49,4 @@ Realizar y exponer un trabajo con el soporte de una presentación es un capítul
     - [The Markdown Guide](https://www.markdownguide.org/)
     - [The comprehensive Markdown reference guide](https://github.com/mattcone/markdown-guide)
     - [Tutorial Guardar PDF](https://youtu.be/A632avezFGQ)
+    - [Sintaxis de escritura y formato básicos en GitHub](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)
