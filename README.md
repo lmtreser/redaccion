@@ -50,6 +50,8 @@ Algunos recursos interesantes para explorar:
 - Otros recursos 
     - [Normas APA](https://normas-apa.org/)
     - [Publish with IEEE](https://ieeeauthorcenter.ieee.org/)
+    - [IEEE Manuscript Templates for Conference Proceedings](https://www.ieee.org/conferences/publishing/templates.html)
+    - [IEEE Introduction to the Guidelines for Handling Plagiarism Complaints](https://www.ieee.org/publications/rights/plagiarism/plagiarism.html)
     - [The Markdown Guide](https://www.markdownguide.org/)
     - [The comprehensive Markdown reference guide](https://github.com/mattcone/markdown-guide)
     - [Tutorial Guardar PDF](https://youtu.be/A632avezFGQ)
